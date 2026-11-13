@@ -206,4 +206,4 @@ This repository serves as the official landing page for European Bus Simulator 2
 **Get the most recent version of European Bus Simulator 2012 today!**
 
 ---
-**Last updated:** 2026-11-13 12:44:03 UTC
+**Last updated:** 2026-11-13 20:11:07 UTC
